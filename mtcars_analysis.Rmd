@@ -1,0 +1,13 @@
+---
+title: "Motor Trend analysis"
+subtitle: "Course Project for Statistical Inference Coursera Class"
+author: "Leon Duplay"
+date: "16 July 2015"
+output: 
+  html_document: 
+    fig_height: 3
+    fig_width: 10
+    keep_md: yes
+    theme: united
+---
+
