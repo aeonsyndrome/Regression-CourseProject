@@ -1,0 +1,18 @@
+{
+    "contents" : "body{\n  font-size: 16pt;\n}\nh1,h2,h3,h4,h5,h6{\n  font-size: 24pt;\n}",
+    "created" : 1437573623581.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2128369474",
+    "id" : "4F65AEEE",
+    "lastKnownWriteTime" : 1437573632,
+    "path" : "~/My Box Files/DataSciTraining/Repos/Regression-CourseProject/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "css"
+}
