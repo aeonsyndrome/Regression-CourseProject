@@ -15,11 +15,20 @@ output:
 
 Executive summary goes here
 
-# Exploring the mtcars data
+“Is an automatic or manual transmission better for MPG”
+"Quantify the MPG difference between automatic and manual transmissions"
+
+- Multiple models
+- Did the student do a residual plot and some diagnostics?
+- Did the student quantify the uncertainty in their conclusions and/or perform an inference correctly?
+
+# Exploring the mtcars data (Exploratory Data Analysis)
 
 ```{r libraries}
 library(ggplot2)
 ```
+
+About the dataset: asdasdasd
 
 ```{r load}
 data(mtcars)
