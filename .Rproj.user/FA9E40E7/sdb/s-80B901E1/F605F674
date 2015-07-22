@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"Motor Trend analysis\"\nsubtitle: \"Course Project for Statistical Inference Coursera Class\"\nauthor: \"Leon Duplay\"\ndate: \"16 July 2015\"\noutput: \n  html_document: \n    fig_height: 3\n    fig_width: 10\n    keep_md: yes\n    theme: united\n---\n\n# Executive summary\n\nExecutive summary goes here\n\n# Exploring the mtcars data\n\n```{r libraries}\nlibrary(ggplot2)\n```\n\n```{r load}\ndata(mtcars)\nsummary(mtcars)\n\n```\n\n",
+    "created" : 1437487371460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "480557548",
+    "id" : "F605F674",
+    "lastKnownWriteTime" : 1437555475,
+    "path" : "~/My Box Files/DataSciTraining/Repos/Regression-CourseProject/mtcars_analysis.Rmd",
+    "project_path" : "mtcars_analysis.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

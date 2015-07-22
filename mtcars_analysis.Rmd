@@ -11,3 +11,19 @@ output:
     theme: united
 ---
 
+# Executive summary
+
+Executive summary goes here
+
+# Exploring the mtcars data
+
+```{r libraries}
+library(ggplot2)
+```
+
+```{r load}
+data(mtcars)
+summary(mtcars)
+
+```
+
